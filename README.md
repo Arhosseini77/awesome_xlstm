@@ -16,4 +16,4 @@
 
 ## Time Seies
 * xLSTMTime : Long-term Time Series Forecasting With xLSTM, [paper](https://arxiv.org/abs/2407.10240), [github](https://github.com/muslehal/xLSTMTime), 
-* Unlocking the Power of LSTM for Long Term Time Series Forecasting, [paper](https://arxiv.org/pdf/2408.10006), 
+* Unlocking the Power of LSTM for Long Term Time Series Forecasting, [paper](https://arxiv.org/pdf/2408.10006)
