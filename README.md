@@ -17,3 +17,4 @@
 ## Time Seies
 * xLSTMTime : Long-term Time Series Forecasting With xLSTM, [paper](https://arxiv.org/abs/2407.10240), [github](https://github.com/muslehal/xLSTMTime), 
 * Unlocking the Power of LSTM for Long Term Time Series Forecasting, [paper](https://arxiv.org/pdf/2408.10006)
+* An Evaluation of Deep Learning Models for Stock Market Trend Prediction, [paper](https://arxiv.org/pdf/2408.12408)
