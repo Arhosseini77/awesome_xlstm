@@ -14,7 +14,7 @@
 * Are Vision xLSTM Embedded UNet More Reliable in Medical 3D Image Segmentation?, [paper](https://arxiv.org/abs/2406.16993), [github](https://github.com/duttapallabi2907/U-VixLSTM)
 * xLSTM-Unet can be an Effective 2D & 3D Medical Image Segmentation Backbone, [paper](https://arxiv.org/pdf/2407.01530), [github](https://github.com/tianrun-chen/xLSTM-UNet-Pytorch)
 
-## Time Seies
+## Time Series
 * xLSTMTime : Long-term Time Series Forecasting With xLSTM, [paper](https://arxiv.org/abs/2407.10240), [github](https://github.com/muslehal/xLSTMTime), 
 * Unlocking the Power of LSTM for Long Term Time Series Forecasting, [paper](https://arxiv.org/pdf/2408.10006)
 * An Evaluation of Deep Learning Models for Stock Market Trend Prediction, [paper](https://arxiv.org/pdf/2408.12408)
