@@ -8,6 +8,7 @@
 
 ## Vision
 * Vision-LSTM: xLSTM as Generic Vision Backbone, [paper](https://arxiv.org/abs/2406.04303), [github](https://github.com/nx-ai/vision-lstm)
+* xLSTM-FER: Enhancing Student Expression Recognition with Extended Vision Long Short-Term Memory Network, [paper](https://arxiv.org/pdf/2410.05074v1)
 
 ### Medical 
 * Seg-LSTM: Performance of xLSTM for Semantic Segmentation of Remotely Sensed Images, [paper](https://arxiv.org/abs/2406.14086), [github](https://github.com/zhuqinfeng1999/Seg-LSTM)
