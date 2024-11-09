@@ -25,6 +25,8 @@
 ## Audio
 * Audio xLSTMs: Learning Self-supervised audio representations with xLSTMs, [paper](https://arxiv.org/abs/2408.16568)
 
+## Robotics
+* A Large Recurrent Action Model: xLSTM enables Fast Inference for Robotics Tasks, [paper](https://arxiv.org/pdf/2410.22391)
 
 
 
