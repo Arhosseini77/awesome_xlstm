@@ -29,6 +29,11 @@
 * A Large Recurrent Action Model: xLSTM enables Fast Inference for Robotics Tasks, [paper](https://arxiv.org/pdf/2410.22391)
 
 
+## Biological Sequences
+* Bio-XLSTM: Generative Modeling, Representation and In-Context Learning of Biological Sequences and Chemical Sequences, [paper](https://arxiv.org/pdf/2411.04165)
+
+
+
 
 
 
