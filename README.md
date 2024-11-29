@@ -22,7 +22,7 @@
 * xLSTMTime : Long-term Time Series Forecasting With xLSTM, [paper](https://arxiv.org/abs/2407.10240), [github](https://github.com/muslehal/xLSTMTime)
 * Unlocking the Power of LSTM for Long Term Time Series Forecasting, [paper](https://arxiv.org/pdf/2408.10006)
 * An Evaluation of Deep Learning Models for Stock Market Trend Prediction, [paper](https://arxiv.org/pdf/2408.12408)
-* Xlstm-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories, [paper](https://arxiv.org/pdf/2410.16928)
+* Xlstm-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories, [paper](https://arxiv.org/pdf/2410.16928), [github](https://github.com/mauricekraus/xlstm-mixer)
 
 ## Audio
 * Audio xLSTMs: Learning Self-supervised audio representations with xLSTMs, [paper](https://arxiv.org/abs/2408.16568)
