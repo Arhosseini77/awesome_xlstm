@@ -17,6 +17,7 @@
 * xLSTM-Unet can be an Effective 2D & 3D Medical Image Segmentation Backbone, [paper](https://arxiv.org/pdf/2407.01530), [github](https://github.com/tianrun-chen/xLSTM-UNet-Pytorch)
 * Enhancing Autism Spectrum Disorder Early Detection with the Parent-Child Dyads Block-Play Protocol and an Attention-enhanced GCN-xLSTM Hybrid Deep Learning Framework, [paper](https://arxiv.org/pdf/2408.16924)
 * When Mamba Meets xLSTM: An Efficient and Precise Method with the XLSTM-VMUNet Model for Skin lesion Segmentation, [paper](https://arxiv.org/pdf/2411.09363), [github](https://github.com/FangZhuoyi/XLSTM-VMUNet)
+* XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision XLSTM and Heteromodal Variational Encoder-Decoder, [paper](https://arxiv.org/pdf/2412.07804), [github](https://github.com/Quanato607/XLSTM-HVED)
 
 ## Time Series
 * xLSTMTime : Long-term Time Series Forecasting With xLSTM, [paper](https://arxiv.org/abs/2407.10240), [github](https://github.com/muslehal/xLSTMTime)
