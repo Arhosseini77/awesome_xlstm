@@ -28,6 +28,7 @@
 
 ## Audio
 * Audio xLSTMs: Learning Self-supervised audio representations with xLSTMs, [paper](https://arxiv.org/abs/2408.16568)
+* xLSTM-SENet: xLSTM for Single-Channel Speech Enhancement, [paper](https://arxiv.org/pdf/2501.06146), [github](https://github.com/NikolaiKyhne/xLSTM-SENet)
 
 ## Robotics
 * A Large Recurrent Action Model: xLSTM enables Fast Inference for Robotics Tasks, [paper](https://arxiv.org/pdf/2410.22391)
