@@ -33,6 +33,9 @@
 ## Robotics
 * A Large Recurrent Action Model: xLSTM enables Fast Inference for Robotics Tasks, [paper](https://arxiv.org/pdf/2410.22391)
 
+## Graph Neural Network (GNN) 
+* MolGraph-xLSTM: A graph-based dual-level xLSTM framework with multi-head mixture-of-experts for enhanced molecular representation and interpretability, [paper](https://arxiv.org/abs/2501.18439)
+
 
 ## Biological Sequences
 * Bio-XLSTM: Generative Modeling, Representation and In-Context Learning of Biological Sequences and Chemical Sequences, [paper](https://arxiv.org/pdf/2411.04165)
