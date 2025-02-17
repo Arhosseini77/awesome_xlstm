@@ -39,6 +39,10 @@
 
 ## Biological Sequences
 * Bio-XLSTM: Generative Modeling, Representation and In-Context Learning of Biological Sequences and Chemical Sequences, [paper](https://arxiv.org/pdf/2411.04165)
+  
+
+## Causality 
+* Exploring Neural Granger Causality with xLSTMs: Unveiling Temporal Dependencies in Complex Data, [paper](https://arxiv.org/pdf/2502.09981)
 
 
 
