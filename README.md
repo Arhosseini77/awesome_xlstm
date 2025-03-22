@@ -37,17 +37,18 @@
 ## Graph Neural Network (GNN) 
 * MolGraph-xLSTM: A graph-based dual-level xLSTM framework with multi-head mixture-of-experts for enhanced molecular representation and interpretability, [paper](https://arxiv.org/abs/2501.18439)
 
-
 ## Biological Sequences
 * Bio-XLSTM: Generative Modeling, Representation and In-Context Learning of Biological Sequences and Chemical Sequences, [paper](https://arxiv.org/pdf/2411.04165)
-  
 
 ## Causality 
 * Exploring Neural Granger Causality with xLSTMs: Unveiling Temporal Dependencies in Complex Data, [paper](https://arxiv.org/pdf/2502.09981)
   
-
 ## LLM 
 * xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference, [paper](https://arxiv.org/pdf/2503.13427), [github](https://github.com/NX-AI/xlstm)
+
+## Diffusion 
+* XDGesture: An xLSTM-based Diffusion Model for Co-speech Gesture Generation, [paper](https://ieeexplore.ieee.org/abstract/document/10888507)
+
 
 
 
