@@ -43,6 +43,11 @@
 
 ## Causality 
 * Exploring Neural Granger Causality with xLSTMs: Unveiling Temporal Dependencies in Complex Data, [paper](https://arxiv.org/pdf/2502.09981)
+  
+
+## LLM 
+* xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference, [paper](https://arxiv.org/pdf/2503.13427)
+
 
 
 
