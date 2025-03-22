@@ -47,7 +47,7 @@
   
 
 ## LLM 
-* xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference, [paper](https://arxiv.org/pdf/2503.13427)
+* xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference, [paper](https://arxiv.org/pdf/2503.13427), [github](https://github.com/NX-AI/xlstm)
 
 
 
