@@ -39,6 +39,7 @@
 
 ## Biological Sequences
 * Bio-XLSTM: Generative Modeling, Representation and In-Context Learning of Biological Sequences and Chemical Sequences, [paper](https://arxiv.org/pdf/2411.04165)
+* Adaptive Lossless Compression for Genomics Data by Multiple (s, k)-mer Encoding and XLSTM, [paper](https://ieeexplore.ieee.org/abstract/document/10887721), [github](https://github.com/dingyanfeng/AGDLC)
 
 ## Causality 
 * Exploring Neural Granger Causality with xLSTMs: Unveiling Temporal Dependencies in Complex Data, [paper](https://arxiv.org/pdf/2502.09981)
