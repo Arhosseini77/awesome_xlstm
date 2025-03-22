@@ -25,6 +25,7 @@
 * Unlocking the Power of LSTM for Long Term Time Series Forecasting, [paper](https://arxiv.org/pdf/2408.10006)
 * An Evaluation of Deep Learning Models for Stock Market Trend Prediction, [paper](https://arxiv.org/pdf/2408.12408)
 * Xlstm-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories, [paper](https://arxiv.org/pdf/2410.16928), [github](https://github.com/mauricekraus/xlstm-mixer)
+* A Deep Reinforcement Learning Approach to Automated Stock Trading, using xLSTM Networks, [paper](https://arxiv.org/pdf/2503.09655)
 
 ## Audio
 * Audio xLSTMs: Learning Self-supervised audio representations with xLSTMs, [paper](https://arxiv.org/abs/2408.16568)
@@ -47,8 +48,6 @@
 
 ## LLM 
 * xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference, [paper](https://arxiv.org/pdf/2503.13427)
-
-
 
 
 
