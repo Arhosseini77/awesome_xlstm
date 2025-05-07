@@ -48,6 +48,7 @@
 ## LLM 
 * xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference, [paper](https://arxiv.org/pdf/2503.13427), [github](https://github.com/NX-AI/xlstm)
 * Distil-xLSTM: Learning Attention Mechanisms through Recurrent Structures, [paper](https://arxiv.org/pdf/2503.18565)
+* MoxE: Mixture of xLSTM Experts with Entropy-Aware Routing for Efficient Language Modeling, [paper](https://arxiv.org/pdf/2505.01459)
 
 ## Diffusion 
 * XDGesture: An xLSTM-based Diffusion Model for Co-speech Gesture Generation, [paper](https://ieeexplore.ieee.org/abstract/document/10888507)
