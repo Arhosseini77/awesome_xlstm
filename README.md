@@ -34,6 +34,7 @@
 
 ## Robotics
 * A Large Recurrent Action Model: xLSTM enables Fast Inference for Robotics Tasks, [paper](https://arxiv.org/pdf/2410.22391)
+* Classification of assembly tasks combining multiple primitive actions using Transformers and xLSTMs, [paper](https://arxiv.org/pdf/2505.18012)
 
 ## Graph Neural Network (GNN) 
 * MolGraph-xLSTM: A graph-based dual-level xLSTM framework with multi-head mixture-of-experts for enhanced molecular representation and interpretability, [paper](https://arxiv.org/abs/2501.18439)
