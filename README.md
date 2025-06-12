@@ -54,6 +54,7 @@
 
 ## Diffusion 
 * XDGesture: An xLSTM-based Diffusion Model for Co-speech Gesture Generation, [paper](https://ieeexplore.ieee.org/abstract/document/10888507)
+* HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios, [paper](https://arxiv.org/pdf/2506.09650), [github](https://github.com/KPeng9510/HopaDIFF)
 
 
 
