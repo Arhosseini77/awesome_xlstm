@@ -28,6 +28,7 @@
 * Xlstm-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories, [paper](https://arxiv.org/pdf/2410.16928), [github](https://github.com/mauricekraus/xlstm-mixer)
 * A Deep Reinforcement Learning Approach to Automated Stock Trading, using xLSTM Networks, [paper](https://arxiv.org/pdf/2503.09655)
 * TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning, [paper](https://arxiv.org/pdf/2505.23719)
+* xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection, [paper](https://arxiv.org/pdf/2506.22837), [github](https://github.com/Nyderx/xlstmad)
 
 ## Audio
 * Audio xLSTMs: Learning Self-supervised audio representations with xLSTMs, [paper](https://arxiv.org/abs/2408.16568)
