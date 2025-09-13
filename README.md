@@ -20,6 +20,7 @@
 * When Mamba Meets xLSTM: An Efficient and Precise Method with the XLSTM-VMUNet Model for Skin lesion Segmentation, [paper](https://arxiv.org/pdf/2411.09363), [github](https://github.com/FangZhuoyi/XLSTM-VMUNet)
 * XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision XLSTM and Heteromodal Variational Encoder-Decoder, [paper](https://arxiv.org/pdf/2412.07804), [github](https://github.com/Quanato607/XLSTM-HVED)
 * xLSTM-ECG: Multi-label ECG Classification via Feature Fusion with xLSTM, [paper](https://arxiv.org/pdf/2504.16101)
+* Masked Autoencoder Pretraining and BiXLSTM ResNet Architecture for PET/CT Tumor Segmentation, [paper](https://arxiv.org/pdf/2509.02602), [github](https://github.com/RespectKnowledge/AutoPet_2025_BxLSTM_UNET_Segmentation)
 
 ## Time Series
 * xLSTMTime : Long-term Time Series Forecasting With xLSTM, [paper](https://arxiv.org/abs/2407.10240), [github](https://github.com/muslehal/xLSTMTime)
