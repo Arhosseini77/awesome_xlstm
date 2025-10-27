@@ -21,6 +21,7 @@
 * XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision XLSTM and Heteromodal Variational Encoder-Decoder, [paper](https://arxiv.org/pdf/2412.07804), [github](https://github.com/Quanato607/XLSTM-HVED)
 * xLSTM-ECG: Multi-label ECG Classification via Feature Fusion with xLSTM, [paper](https://arxiv.org/pdf/2504.16101)
 * Masked Autoencoder Pretraining and BiXLSTM ResNet Architecture for PET/CT Tumor Segmentation, [paper](https://arxiv.org/pdf/2509.02602), [github](https://github.com/RespectKnowledge/AutoPet_2025_BxLSTM_UNET_Segmentation)
+  
 
 ## Time Series
 * xLSTMTime : Long-term Time Series Forecasting With xLSTM, [paper](https://arxiv.org/abs/2407.10240), [github](https://github.com/muslehal/xLSTMTime)
@@ -30,8 +31,6 @@
 * A Deep Reinforcement Learning Approach to Automated Stock Trading, using xLSTM Networks, [paper](https://arxiv.org/pdf/2503.09655)
 * TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning, [paper](https://arxiv.org/pdf/2505.23719)
 * xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection, [paper](https://arxiv.org/pdf/2506.22837), [github](https://github.com/Nyderx/xlstmad)
-* Enhancing Spatiotemporal Networks with xLSTM: A Scalar LSTM Approach for Cellular Traffic Forecasting, [paper](https://arxiv.org/pdf/2507.19513)
-* StoxLSTM: A Stochastic Extended Long Short-Term Memory Network for Time Series Forecasting, [paper](https://arxiv.org/pdf/2509.01187)
 * Enhancing Spatiotemporal Networks with xLSTM: A Scalar LSTM Approach for Cellular Traffic Forecasting, [paper](https://arxiv.org/pdf/2507.19513)
 * StoxLSTM: A Stochastic Extended Long Short-Term Memory Network for Time Series Forecasting, [paper](https://arxiv.org/pdf/2509.01187)
 
