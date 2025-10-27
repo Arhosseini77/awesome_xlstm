@@ -61,7 +61,8 @@
 * HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios, [paper](https://arxiv.org/pdf/2506.09650), [github](https://github.com/KPeng9510/HopaDIFF)
 
 ## Natural Language Processing
-* MEGA: xLSTM with Multihead Exponential Gated Fusion for Precise Aspect-based Sentiment Analysis, [paper](https://arxiv.org/abs/2507.01213) 
+* MEGA: xLSTM with Multihead Exponential Gated Fusion for Precise Aspect-based Sentiment Analysis, [paper](https://arxiv.org/abs/2507.01213)
+* AF-MAT: Aspect-aware Flip-and-Fuse xLSTM for Aspect-based Sentiment Analysis, [paper](https://arxiv.org/pdf/2507.01213)
 
 
 
