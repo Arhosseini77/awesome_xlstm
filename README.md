@@ -22,7 +22,6 @@
 * xLSTM-ECG: Multi-label ECG Classification via Feature Fusion with xLSTM, [paper](https://arxiv.org/pdf/2504.16101)
 * Masked Autoencoder Pretraining and BiXLSTM ResNet Architecture for PET/CT Tumor Segmentation, [paper](https://arxiv.org/pdf/2509.02602), [github](https://github.com/RespectKnowledge/AutoPet_2025_BxLSTM_UNET_Segmentation)
   
-
 ## Time Series
 * xLSTMTime : Long-term Time Series Forecasting With xLSTM, [paper](https://arxiv.org/abs/2407.10240), [github](https://github.com/muslehal/xLSTMTime)
 * Unlocking the Power of LSTM for Long Term Time Series Forecasting, [paper](https://arxiv.org/pdf/2408.10006)
@@ -56,6 +55,7 @@
 * xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference, [paper](https://arxiv.org/pdf/2503.13427), [github](https://github.com/NX-AI/xlstm)
 * Distil-xLSTM: Learning Attention Mechanisms through Recurrent Structures, [paper](https://arxiv.org/pdf/2503.18565)
 * MoxE: Mixture of xLSTM Experts with Entropy-Aware Routing for Efficient Language Modeling, [paper](https://arxiv.org/pdf/2505.01459)
+* xLSTM Scaling Laws: Competitive Performance with Linear Time-Complexity, [paper](https://arxiv.org/pdf/2510.02228)
 
 ## Diffusion 
 * XDGesture: An xLSTM-based Diffusion Model for Co-speech Gesture Generation, [paper](https://ieeexplore.ieee.org/abstract/document/10888507)
