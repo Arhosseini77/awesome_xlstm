@@ -65,6 +65,8 @@
 * MEGA: xLSTM with Multihead Exponential Gated Fusion for Precise Aspect-based Sentiment Analysis, [paper](https://arxiv.org/abs/2507.01213)
 * AF-MAT: Aspect-aware Flip-and-Fuse xLSTM for Aspect-based Sentiment Analysis, [paper](https://arxiv.org/pdf/2507.01213)
 
+## Physics / Scientific Computing
+* Spectral Bias Mitigation via xLSTM-PINN: Memory-Gated Representation Refinement for Physics-Informed Learning, [paper](https://arxiv.org/abs/2511.12512)
 
 
 
