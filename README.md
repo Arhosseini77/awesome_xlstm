@@ -59,6 +59,7 @@
 * MoxE: Mixture of xLSTM Experts with Entropy-Aware Routing for Efficient Language Modeling, [paper](https://arxiv.org/pdf/2505.01459)
 * xLSTM Scaling Laws: Competitive Performance with Linear Time-Complexity, [paper](https://arxiv.org/pdf/2510.02228)
 * Effective Distillation to Hybrid xLSTM Architectures, [paper](https://arxiv.org/pdf/2603.15590)
+* On Subquadratic Architectures: From Applications to Principles, [paper](https://arxiv.org/pdf/2606.12364)
 
 ## Diffusion 
 * XDGesture: An xLSTM-based Diffusion Model for Co-speech Gesture Generation, [paper](https://ieeexplore.ieee.org/abstract/document/10888507)
