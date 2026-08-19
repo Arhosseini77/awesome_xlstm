@@ -32,6 +32,7 @@
 * xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection, [paper](https://arxiv.org/pdf/2506.22837), [github](https://github.com/Nyderx/xlstmad)
 * Enhancing Spatiotemporal Networks with xLSTM: A Scalar LSTM Approach for Cellular Traffic Forecasting, [paper](https://arxiv.org/pdf/2507.19513)
 * StoxLSTM: A Stochastic Extended Long Short-Term Memory Network for Time Series Forecasting, [paper](https://arxiv.org/pdf/2509.01187)
+* TiRex-2: Generalizing TiRex to Multivariate Data and Streaming, [paper](https://arxiv.org/pdf/2607.01204), [github](https://github.com/NX-AI/tirex-2)
 
 ## Audio
 * Audio xLSTMs: Learning Self-supervised audio representations with xLSTMs, [paper](https://arxiv.org/abs/2408.16568)
@@ -57,6 +58,8 @@
 * Distil-xLSTM: Learning Attention Mechanisms through Recurrent Structures, [paper](https://arxiv.org/pdf/2503.18565)
 * MoxE: Mixture of xLSTM Experts with Entropy-Aware Routing for Efficient Language Modeling, [paper](https://arxiv.org/pdf/2505.01459)
 * xLSTM Scaling Laws: Competitive Performance with Linear Time-Complexity, [paper](https://arxiv.org/pdf/2510.02228)
+* Effective Distillation to Hybrid xLSTM Architectures, [paper](https://arxiv.org/pdf/2603.15590)
+* On Subquadratic Architectures: From Applications to Principles, [paper](https://arxiv.org/pdf/2606.12364)
 
 ## Diffusion 
 * XDGesture: An xLSTM-based Diffusion Model for Co-speech Gesture Generation, [paper](https://ieeexplore.ieee.org/abstract/document/10888507)
